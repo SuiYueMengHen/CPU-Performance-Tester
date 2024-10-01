@@ -49,7 +49,7 @@ pip install psutil numpy matplotlib zlib tkinter
 To run the project, execute the following command in the terminal:
 
 ```bash
-python your_script.py
+python main.py
 ```
 
 ## 使用说明 / Usage Instructions
@@ -64,9 +64,6 @@ python your_script.py
 3. A dynamic progress bar will show the testing progress.
 4. After the tests are completed, the results will be stored in memory and can be further exported or reviewed.
 
-## 界面示例 / Interface Example
-
-![Performance Tester GUI](screenshot.png)
 
 ## 测试项目 / Test Items
 
@@ -97,9 +94,6 @@ python your_script.py
 
 If you have any suggestions for improvements or encounter any issues, feel free to submit an issue or a pull request.
 
-## 许可证 / License
-
-该项目采用 MIT 许可证。
 
 This project is licensed under the MIT License.
 
